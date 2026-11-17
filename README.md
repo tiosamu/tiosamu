@@ -62,15 +62,6 @@
 - 🔐 Cybersecurity and hardware experiments
 - 🎨 UI design and 3D projects
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [Basic Tic-Tac-Toe](https://github.com/tiosamu/Basic-TicTacToe) | Classic game project | Game development |
-| [Atom Bot — Landing Page](https://github.com/tiosamu/Atom-Bot-landing-page) | Web landing page project | Web development |
-
-> More experiments and projects are in progress.
-
 ---
 
 <div align="center">
@@ -83,10 +74,14 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 👾 Commit Invaders
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tiosamu/tiosamu/output/snake.svg" alt="Contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiosamu/tiosamu/output/commit-invaders-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiosamu/tiosamu/output/commit-invaders.svg" />
+  <img src="https://raw.githubusercontent.com/tiosamu/tiosamu/output/commit-invaders-dark.svg" alt="Space Invaders animation based on Samurai's GitHub contributions" width="100%" />
+</picture>
 
 </div>
