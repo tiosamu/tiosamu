@@ -24,21 +24,11 @@
 
 ---
 
-### ⚡ Tech Stack
+### ⚡ Tools & Technologies
 
 <div align="center">
 
-**Development**
-
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,nodejs,git,linux,unity&perline=9" alt="Development technologies" />
-
-**Design & Creative**
-
-<img src="https://skillicons.dev/icons?i=ps,ae,blender,figma&perline=4" alt="Design technologies" />
-
-**Hardware**
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" alt="Hardware technologies" />
+<img src="https://skillicons.dev/icons?i=python,cs,unity,js,html,css,git,linux,ps,ae,blender,figma,arduino&perline=7" alt="Python, C#, Unity, JavaScript, HTML, CSS, Git, Linux, Photoshop, After Effects, Blender, Figma and Arduino" width="360" />
 
 </div>
 
@@ -52,15 +42,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiosamu&layout=compact&langs_count=8&theme=radical&hide_border=true" height="165" alt="Top languages" />
 
 </div>
-
----
-
-### 🛠️ What I Build
-
-- 🎮 Games and interactive systems with Unity and C#
-- 🐍 Python scripts and automation
-- 🔐 Cybersecurity and hardware experiments
-- 🎨 UI design and 3D projects
 
 ---
 
