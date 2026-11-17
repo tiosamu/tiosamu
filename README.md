@@ -14,6 +14,16 @@
 
 ---
 
+### 💻 Samurai OS // Terminal
+
+<div align="center">
+
+<img src="./assets/samurai-terminal.svg" width="850" alt="Samurai OS profile terminal" />
+
+</div>
+
+---
+
 ### ⚡ Tech Stack
 
 <div align="center">
@@ -51,6 +61,15 @@
 - 🐍 Python scripts and automation
 - 🔐 Cybersecurity and hardware experiments
 - 🎨 UI design and 3D projects
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [Basic Tic-Tac-Toe](https://github.com/tiosamu/Basic-TicTacToe) | Classic game project | Game development |
+| [Atom Bot — Landing Page](https://github.com/tiosamu/Atom-Bot-landing-page) | Web landing page project | Web development |
+
+> More experiments and projects are in progress.
 
 ---
 
